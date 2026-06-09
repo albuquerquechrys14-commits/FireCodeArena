@@ -1,15 +1,3 @@
-// Separando notas aprovadas e reprovadas
-// Crie um array com 8 notas.
-// Crie dois vetores:
-// aprovados
-// reprovados
-// Utilize um for.
-// Se a nota for maior ou igual a 7:
-// Adicione em aprovados
-// Caso contrário:
-// Adicione em reprovados
-// Mostre os dois vetores.
-
 let notas = [8, 6, 7, 9, 5, 10, 4, 2]
 let aprovados = []
 let reprovados = []
