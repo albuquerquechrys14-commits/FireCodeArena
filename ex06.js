@@ -1,12 +1,3 @@
-// Atividade 06 - Média das notas
-// Crie um array com 4 notas.
-// Utilize um for para somar todas as notas.
-// Calcule a média.
-// Se a média for:
-// Maior ou igual a 7 → Aprovado
-// Menor que 7 → Reprovado
-// Mostre a média e a situação.
-
 let notas = [8, 6, 9, 7]
 let soma = 0
 
