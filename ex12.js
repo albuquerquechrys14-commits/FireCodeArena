@@ -1,9 +1,3 @@
-// Atividade 12 - Números acima da média
-// Crie um array com 5 números.
-// Calcule a média dos valores.
-// Depois percorra novamente o vetor.
-// Mostre apenas os números que estão acima da média.
-
 let numeros = [10, 5, 67, 9, 42]
 let soma = 0
 
