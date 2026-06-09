@@ -1,4 +1,4 @@
-console.log("------- Separando múltiplos de 3 -------")
+console.log("========== Separando múltiplos de 3 ==========")
 const readline = require ('readline-sync')
 
 let multiplosDe3 = []
