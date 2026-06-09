@@ -1,13 +1,3 @@
-// Atividade 09 - Procurando um nome
-// Crie um array com 5 nomes.
-// Peça um nome ao usuário.
-// Utilize um for para verificar se o nome existe no vetor.
-// Caso encontre:
-// Nome encontrado!
-// Caso contrário:
-// Nome não encontrado!
-// dica: use while para os casos.
-
 const readline = require ('readline-sync')
 
 let nomes = ["Jhonny", "Bob", "Charlie", "Emilly", "Jasmine"]
