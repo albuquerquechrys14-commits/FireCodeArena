@@ -1,13 +1,3 @@
-// Atividade 14 - Estatísticas da turma
-// Peça ao usuário quantas notas deseja cadastrar.
-// Armazene todas em um vetor.
-// Ao final, mostre:
-// Maior nota
-// Menor nota
-// Média da turma
-// Quantidade de aprovados (nota ≥ 7)
-// Quantidade de reprovados (nota < 7)
-
 const readline = require ('readline-sync')
 console.log("=============== TURMA ================")
 let notas = []
