@@ -1,10 +1,3 @@
-// Atividade 07 - Quantidade de números pares
-// Crie um array com 10 números.
-// Utilize um for.
-// Conte quantos números pares existem no vetor.
-// Mostre o total encontrado.
-
-
 let numeros = [67, 42, 69, 6, 76, 88, 90, 101, 66, 77]
 let pares = 0
 
