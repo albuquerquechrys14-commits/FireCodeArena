@@ -1,12 +1,3 @@
-// Atividade 03 - Contagem de maiores de idade
-// Crie um array com 5 idades.
-// Utilize um for para percorrer o vetor.
-// Utilize um if para verificar quais idades são maiores ou iguais a 18.
-// Mostre:
-// Quantas pessoas são maiores de idade
-// Quantas são menores de idade
-
-
 const readline = require ('readline-sync')
 
 let idades = []
