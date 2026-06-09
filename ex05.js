@@ -1,9 +1,3 @@
-// Atividade 05 - Encontrando o menor número
-// Crie um array com 5 números.
-// Utilize um for para percorrer o vetor.
-// Descubra qual é o menor valor armazenado.
-// Mostre o resultado no console.
-
 let numeros = [10, 5, 8, 3, 12]
 let menorNumero = numeros[0]
 
