@@ -1,10 +1,24 @@
-console.log("------- Números Pares e Ímpares -------")
+// Peça ao usuário quantos números ele deseja cadastrar.
+// Crie dois arrays:
+// Pares
+// Impares
+// Solicite os números ao usuário.
+// Utilize um if/else para verificar cada número e armazená-lo no vetor correto.
+// Ao final, exiba:
+// Lista de números pares
+// Lista de números ímpares
+
 const readline = require ('readline-sync')
 
 let pares = []
 let impares = []
 
-for (let i = 0; i < 2; i++){
+console.log("-----------Números-------------")
+
+let quantidade = readline.questionInt (`Quantos números você deseja cadastrar? `)
+
+console.log("------- Números Pares e Ímpares -------")
+for (let i = 0; i < quantidade; i++){
     const numero = readline.questionInt (`Digite um número: `)
 
     if (numero % 2 === 0){
