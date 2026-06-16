@@ -18,7 +18,7 @@ console.log("-----------Números-------------")
 let quantidade = readline.questionInt (`Quantos números você deseja cadastrar?: `)
 
 console.log("------- Números Pares e Ímpares -------")
-for (let i = 0; i < quantidade; i++){
+for (let i = 1; i < quantidade; i++){
     const numero = readline.questionInt (`Digite o ${i}º número: `)
 
     if (numero % 2 === 0){
